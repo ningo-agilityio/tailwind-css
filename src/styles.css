@@ -1,0 +1,23 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.main-header {
+  height: 100px;
+}
+
+/* Define any of your own custom base styles directly  */
+.container {
+  @apply p-8;
+}
+
+.main-content,
+.main-content__sub:not(:first-child) {
+  @apply mt-8;
+}
+
+.main-content__sub button {
+  @apply mr-8;
+}
