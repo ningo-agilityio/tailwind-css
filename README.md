@@ -15,6 +15,8 @@ yarn install
 yarn run build
 ```
 
+4. See result by accessing http://localhost:8080/
+
 ## Targets:
 - Configure to build tailwind by webpack
 - Get familiar with defining tailwind configuration
