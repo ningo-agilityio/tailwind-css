@@ -13,11 +13,15 @@
   @apply p-8;
 }
 
-.main-content,
-.main-content__sub:not(:first-child) {
-  @apply mt-8;
-}
+.main-content {
+  &,
+  &__sub:not(:first-child) {
+    @apply mt-8;
+  }
 
-.main-content__sub button {
-  @apply mr-8;
+  &__sub {
+    .btn {
+      @apply mr-8;
+    }
+  }
 }
