@@ -20,3 +20,4 @@ yarn run build
 - Get familiar with defining tailwind configuration
 - Get familiar with customizing theme, add components
 - Get familiar with building your own classes
+- Configure to use PostCSS as your preprocessor
