@@ -15,8 +15,8 @@ yarn install
 yarn run build
 ```
 
-## Target:
+## Targets:
 - Configure to build tailwind by webpack
-- Get familiar to define tailwind configuration
-- Get familiar to customize theme, add components
-- Get familiar to build your own classes
+- Get familiar with defining tailwind configuration
+- Get familiar with customizing theme, add components
+- Get familiar with building your own classes
